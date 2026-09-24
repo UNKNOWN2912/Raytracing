@@ -11,6 +11,7 @@ $ ./build.sh
 - glfw
 - stb
 - glm
+- nlohmann json
 - vulkan sdk
 
 # TODO
