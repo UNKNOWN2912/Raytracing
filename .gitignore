@@ -1,0 +1,6 @@
+.vscode/
+*.spv
+Build/
+compile_commands.json
+Raytracing
+
